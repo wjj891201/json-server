@@ -215,6 +215,29 @@
 				}
 			]
 		}
+	],
+	"fisher":[
+		{
+			"author":[
+				"蔡智恒"
+			],
+			"binding":"平装",
+			"category":"小说",
+			"id":1780,
+			"image":"https://img3.douban.com/lpic/s1327750.jpg",
+			"images":{
+				"large":"https://img3.douban.com/lpic/s1327750.jpg"
+			},
+			"isbn":"9787501524044",
+			"pages":"224",
+			"price":"12.80",
+			"pubdate":"1999-11-1",
+			"publisher":"知识出版社",
+			"subtitle":"",
+			"summary":"你还没有试过，到大学路的麦当劳，点一杯大可乐，与两份薯条的约会方法吗？",
+			"title":"第一次的亲密接触",
+			"translator":[]
+		}
 	]
 
 }
